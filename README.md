@@ -57,13 +57,11 @@ p {
     </ul>
         </div>    
     <div style="background-color: rgb(240,255,255)">
-    <table width="100%" border="0">
             <h2 align="left">Work Experience:</h2>
     <ul>
         <li align="left">Organizer</li>
         <li align="left">Volunteer</li>
     </ul>
-    </table>
         </div>
    <div>
         
